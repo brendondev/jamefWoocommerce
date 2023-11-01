@@ -5,7 +5,6 @@
  * Description: Add Shipping Method Jamef for WooCommerce
  * Version: 1.0.1
  * Author: brendon
- * Author URI: http://brendon.com.br
  * License: GPLv2 or later
  *
  * @package brendon/Shipping.
