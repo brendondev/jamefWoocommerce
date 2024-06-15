@@ -26,4 +26,3 @@ Este plugin foi atualizado e testado no dia de hoje para garantir que funcione p
 
 Simplifique o envio e ofereça uma experiência de compra superior aos seus clientes com o Plugin de Frete Jamef para WooCommerce.
 
-Para obter suporte ou relatar problemas, visite a nossa [página de suporte](https://seusite.com/suporte).
